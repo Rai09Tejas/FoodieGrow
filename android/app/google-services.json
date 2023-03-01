@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "864840239681",
+    "project_id": "foodcamapp",
+    "storage_bucket": "foodcamapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864840239681:android:f81f4bafd5f340224f14c0",
+        "android_client_info": {
+          "package_name": "com.example.foodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864840239681-hf8jb77vad73h6qbvagaileqnlfillun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKHP-bPEacQEwF1fVReExw18spa-DA4Uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864840239681-hf8jb77vad73h6qbvagaileqnlfillun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -4,7 +4,7 @@
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.CAMERA"/>
    <application
-        android:label="foodapp"
+        android:label="Food App -Tejas Rai"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
